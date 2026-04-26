@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/tabos/blood-pressure.git",
-                    "tag" : "1.0.0",
-                    "commit" : "c94a9a5a08794d0633449048e420e47b184cb06d"
+                    "tag" : "1.1.0",
+                    "commit" : "8973ec3bc4c9ab93ec27e4c36f816d80c3d9326d"
                 }
             ]
         }
